@@ -1,0 +1,9 @@
+.logo{
+    max-width: 10rem;
+}
+.active{
+    color: #ebb16d !important;
+}
+.bg-dark{
+    background-color: rgb(7, 2, 0) !important;
+}

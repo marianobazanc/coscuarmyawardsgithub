@@ -1,0 +1,21 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-image: url(../src/img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(7, 2, 0);
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.font-amiri{
+    font-family: 'Amiri', serif;
+}
+
+h1,h2,h3,h4, p{
+    color: white;
+}
+
+.text-gold{
+    color: #ebb06d5e !important;
+}

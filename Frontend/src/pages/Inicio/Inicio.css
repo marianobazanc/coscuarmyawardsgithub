@@ -1,0 +1,32 @@
+.card{
+    border-width: 0;
+    background: none;
+}
+.card-año{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../img/coscu_army_awards_2018-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 5rem;
+    border-radius: 15%;
+    transition: all .2s ease-in-out;
+}
+.card-año-2019{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../img/coscu_army_awards_2019-min.jpg);
+}
+
+.card-año-2020{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../img/coscu_army_awards_2020-min.jpg);
+}
+
+.card-año-2021{
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../img/coscu_army_awards_2021-min.jpg);
+}
+.card-año h3{
+    color: white;
+    font-size: 2rem;
+}
+
+.card-año:hover{
+    transform: scale(1.1);
+}
